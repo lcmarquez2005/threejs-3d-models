@@ -20,7 +20,8 @@ const params = {
 
 const assets = [
     'Samba Dancing',
-    'morph_test'
+    'morph_test',
+    'Capoeira',
 ];
 
 
